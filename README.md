@@ -10,4 +10,4 @@
 ## All tool at one command 
 - `sudo apt-get install figlet lolcat curl jq`
 ## How to use that tool
- first save the location.sh file into your device , the give the permisson using --`chmod +x location.sh` and the run the tool using --`./location.sh` command.
+ first save the ``location.sh`` file into your device , the give the permisson using command --`chmod +x location.sh` and the run the tool using --`./location.sh` command.
